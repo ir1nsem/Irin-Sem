@@ -1,4 +1,4 @@
-# Irin-Sem
+# ir1nsem
 
 # Ирина Семёнова — QA Engineer
 
